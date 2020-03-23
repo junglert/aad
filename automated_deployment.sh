@@ -1,9 +1,9 @@
 #!/bin/bash
 #author: junglert
 #mail:
-#date: 19.02.2020
+#date: 23.03.2020
 #license: GPL-3.0
-#summary: bash script which deploys a website via ansible
+#summary: bash script that automates ansible deployment
 
 
 #variables
